@@ -14,7 +14,7 @@ module Config_File
         platformName: 'Android',
         deviceName: 'Pixel 7 API 35',
         automationName: 'UiAutomator2',
-        app: '/Users/mariamendez//Downloads/com.llamalab.automate_1.31.1-191_minAPI14(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk',
+        app: '/Users/mariamendez//Downloads/ColorNote Notepad Notes_4.5.3_APKPure.apk',
         autoGrantPermissions: 'true',
       },
       appium_lib: {
